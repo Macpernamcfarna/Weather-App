@@ -2,7 +2,7 @@
                               WEATHER APP
 ================================================================================
 
-A simple, elegant weather application that fetches real-time weather data using 
+A simple, elegant weather application that fetches real-time weather data using
 the OpenWeatherMap API. Built with HTML, CSS, and JavaScript.
 
 ================================================================================
