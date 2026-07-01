@@ -31,7 +31,7 @@ INSTALLATION
 ================================================================================
 
   1. Clone the repository
-     git clone https://github.com/yourusername/weather-app.git
+     git clone https://github.com/Macpernamcfarna/weather-app.git
      cd weather-app
 
   2. Get an API Key
@@ -41,8 +41,6 @@ INSTALLATION
   3. Configure the API Key
      - Open weather.js
      - Replace the apiKey variable with your key:
-     
-     const apiKey = "YOUR_API_KEY_HERE";
 
   4. Open the Application
      - Simply open weather.html in your browser
@@ -190,9 +188,9 @@ ACKNOWLEDGMENTS
 CONTACT
 ================================================================================
 
-  Your Name - @yourtwitter - email@example.com
+  Macperna Mcfarna  - macpernamcfarna@gmail.com
 
-  Project Link: https://github.com/yourusername/weather-app
+  Project Link: https://github.com/Macpernamcfarna/weather-app
 
 ================================================================================
                     Made with ❤️ and JavaScript
